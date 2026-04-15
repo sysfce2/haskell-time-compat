@@ -26,10 +26,10 @@ testbuild() {
 }
 
 testbuild 9.14.1 1.15
-testbuild 9.12.2 1.15
+testbuild 9.12.4 1.15
 testbuild 9.8.4  1.15
 
-testbuild 9.12.2 1.14
+testbuild 9.12.4 1.14
 testbuild 9.8.4  1.14
 testbuild 9.6.7  1.14
 testbuild 9.4.8  1.14
